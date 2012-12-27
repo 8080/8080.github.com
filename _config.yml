@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://8080.github.com
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: knight
 simple_search: http://google.com/search
 description:
 
@@ -58,7 +58,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: 8080
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
